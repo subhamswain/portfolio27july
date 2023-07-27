@@ -72,7 +72,7 @@ function Projects() {
               title="cryptapp"
               description="Technology->React Js | Redux | CSS | Chakra UI (July 2023) .The Crypto Tracker App built using React.js and Chakra UI will provide users with an intuitive and visually appealing platform to monitor cryptocurrency prices and trends. The app's responsive design and interactive features will enhance the user experience and make it easy for users to keep track of their favorite cryptocurrencies in real-time."
               ghLink="https://github.com/subhamswain/cryptoappready/tree/cryptoappready"
-              demoLink=""
+              demoLink="https://cryptoappupdated.vercel.app/"
             />
           </Col>
 
